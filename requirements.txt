@@ -1,1 +1,7 @@
+altair
+pandas
 streamlit
+streamlit-aggrid
+matplotlib
+plotly
+scikit-learn
